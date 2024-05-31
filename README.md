@@ -24,7 +24,9 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 ## Work Experience
 
+
 ![image](https://github.com/ds1425/darshana_shah/assets/151712711/49066e2a-b9ae-4398-a938-1e28dac373e9)
+
 
 **Senior Data Analyst @ Adobe (_January 2022 - Present_)**
 - Promoted to a Senior Data Analyst role at Adobe
@@ -53,8 +55,6 @@ I am a Data professional with a passion for enabling executive and senior manage
 - Created clear and impactful presentations for top management, simplifying complex data to align project results with key business KPIs
 - Led and successfully delivered several strategically significant projects simultaneously within tight deadlines
 
-  
-
 
 ![image](https://github.com/ds1425/darshana_shah/assets/151712711/d5e4b08a-23cc-42a2-9c7f-74fa50ebe5a2)
 
@@ -64,8 +64,6 @@ I am a Data professional with a passion for enabling executive and senior manage
 - I've worked with various Salesforce products, such as the Sales Cloud, Service Cloud and Manufacturing Cloud
 - Proficient at Salesforce Analytics Cloud or Tableau CRM (formerly Einstein Analytics), using which I have built multiple interactive dashboards for both customers and internal stakeholders
 - My certifications include Salesforce Certified Administrator and Tableau CRM & Einstein Discovery Consultant
-
-
 
 
 ![image](https://github.com/ds1425/darshana_shah/assets/151712711/6ce86a83-79e5-4773-b056-de78fab09825)
