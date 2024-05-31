@@ -38,7 +38,6 @@ I am passionate about fostering AI and data literacy, which I showcase through m
 - Big Data Analytics
 - Data Visualisation
 - Database Management
-- Data Warehousing
 - ETL
 - Python
 - R
