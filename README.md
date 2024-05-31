@@ -60,10 +60,10 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 
 **Salesforce Analytics Consultant @ FullCRM (_May 2021 - January 2022_)**
-•	As a certified Salesforce Analytics Consultant, I helped clients overcome business challenges with well thought out solutions
-•	I've worked with various Salesforce products, such as the Sales Cloud, Service Cloud and Manufacturing Cloud
-•	Proficient at Salesforce Analytics Cloud or Tableau CRM (formerly Einstein Analytics), using which I have built multiple interactive dashboards for both customers and internal stakeholders
-•	My certifications include Salesforce Certified Administrator and Tableau CRM & Einstein Discovery Consultant
+- As a certified Salesforce Analytics Consultant, I helped clients overcome business challenges with well thought out solutions
+- I've worked with various Salesforce products, such as the Sales Cloud, Service Cloud and Manufacturing Cloud
+- Proficient at Salesforce Analytics Cloud or Tableau CRM (formerly Einstein Analytics), using which I have built multiple interactive dashboards for both customers and internal stakeholders
+- My certifications include Salesforce Certified Administrator and Tableau CRM & Einstein Discovery Consultant
 
 
 
@@ -72,10 +72,10 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 
 **R&D Engineer @ Sony (_July 2019 - February 2020_)**
-•	Team member of the Intellectual Property Division which is part of SARD (Software Architecture Division), one of the two core divisions of Sony in India. Intellectual Property Division deals with patenting new inventions/products developed in Sony
-•	My work was primarily research and development culminating in a patent
-•	Worked on challenging research areas including securing wireless 5G networks
-•	Built small-scale virtual networks using Cisco Packet Tracer for testing. 
-•	Additionally, I used various tools and devices like Raspberry Pi 3 Model B+ and Jupyter Notebook for running Python programs
+- Team member of the Intellectual Property Division which is part of SARD (Software Architecture Division), one of the two core divisions of Sony in India. Intellectual Property Division deals with patenting new inventions/products developed in Sony
+- My work was primarily research and development culminating in a patent
+- Worked on challenging research areas including securing wireless 5G networks
+- Built small-scale virtual networks using Cisco Packet Tracer for testing.
+- Additionally, I used various tools and devices like Raspberry Pi 3 Model B+ and Jupyter Notebook for running Python programs
 
 
