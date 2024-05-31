@@ -16,19 +16,6 @@ I am passionate about fostering AI and data literacy, which I showcase through m
 - I am the Founder of a top 15 women-led startup in India. It is a product-based startup; the product is a novel water softening system based on electromagnetism.
 - In 2018, I was invited to Dubai to present my research on securing IoT devices using a novel algorithm based on Elliptical Curve Cryptography (ECC).
 
-## Technical Skills
-- Big Data Analytics
-- Data Visualisation
-- ETL
-- Python
-- R
-- SQL and Database Management
-- Power BI
-- Tableau
-- SnapLogic
-- AWS Sagemaker
-- Excel
-
 ## Education
 - Master of IT in AI & Data Science | The University of New South Wales (_May 2021_)
 - Bachelor of Engineering | R V College of Engineering (_July 2019_)
@@ -47,4 +34,16 @@ I am passionate about fostering AI and data literacy, which I showcase through m
 - R&D Engineer @ Sony 
 (_July 2019 - February 2020_)
 
+## Technical Skills
+- Big Data Analytics
+- Data Visualisation
+- ETL
+- Python
+- R
+- SQL and Database Management
+- Power BI
+- Tableau
+- SnapLogic
+- AWS Sagemaker
+- Excel
 
