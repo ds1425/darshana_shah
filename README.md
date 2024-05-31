@@ -37,10 +37,12 @@ I am passionate about fostering AI and data literacy, which I showcase through m
 ## Technical Skills
 - Big Data Analytics
 - Data Visualisation
+- Database Management
+- Data Warehousing
 - ETL
 - Python
 - R
-- SQL and Database Management
+- SQL
 - Power BI
 - Tableau
 - SnapLogic
