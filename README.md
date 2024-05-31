@@ -36,7 +36,6 @@ I am a Data professional with a passion for enabling executive and senior manage
 - Working on data lifecycle management systems, including optimising the flow of data from collection and storage to analysis and reporting
 - Providing insightful analytics through intelligent, AI-integrated Power BI dashboards
 
-![image](https://github.com/ds1425/darshana_shah/assets/151712711/1c12bf20-fded-4ace-871e-94d52f68f691)
 
 **Data Analyst @ Adobe (_January 2022 - Present_)**
 - Worked as a Data Analyst enabling the executive management at Adobe to leverage the power of data to drive informed decision-making across the organisation
@@ -53,4 +52,24 @@ I am a Data professional with a passion for enabling executive and senior manage
 - Worked cross-functionally with different teams and members on transformative projects. For example, I worked on a pivotal project with another team within Adobe where my expertise in programming and Docker was required. I collaborated with Expert Customer Success Engineers, Cloud Subject Matter Experts, and Engineering Program Managers to understand the business problem, objective for designing and implementing the solution
 - Created clear and impactful presentations for top management, simplifying complex data to align project results with key business KPIs
 - Led and successfully delivered several strategically significant projects simultaneously within tight deadlines
+
+
+![image](https://github.com/ds1425/darshana_shah/assets/151712711/d5e4b08a-23cc-42a2-9c7f-74fa50ebe5a2)
+
+**Salesforce Analytics Consultant @ FullCRM (_May 2021 - January 2022_)**
+•	As a certified Salesforce Analytics Consultant, I helped clients overcome business challenges with well thought out solutions
+•	I've worked with various Salesforce products, such as the Sales Cloud, Service Cloud and Manufacturing Cloud
+•	Proficient at Salesforce Analytics Cloud or Tableau CRM (formerly Einstein Analytics), using which I have built multiple interactive dashboards for both customers and internal stakeholders
+•	My certifications include Salesforce Certified Administrator and Tableau CRM & Einstein Discovery Consultant
+
+
+![image](https://github.com/ds1425/darshana_shah/assets/151712711/6ce86a83-79e5-4773-b056-de78fab09825)
+
+**R&D Engineer @ Sony (_July 2019 - February 2020_)**
+•	Team member of the Intellectual Property Division which is part of SARD (Software Architecture Division), one of the two core divisions of Sony in India. Intellectual Property Division deals with patenting new inventions/products developed in Sony
+•	My work was primarily research and development culminating in a patent
+•	Worked on challenging research areas including securing wireless 5G networks
+•	Built small-scale virtual networks using Cisco Packet Tracer for testing. 
+•	Additionally, I used various tools and devices like Raspberry Pi 3 Model B+ and Jupyter Notebook for running Python programs
+
 
