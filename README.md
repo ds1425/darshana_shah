@@ -10,7 +10,7 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 ## Achievements
 - I own a business in Australia with the aim of empowering through education online.
-- In 2019, was invited to the Univeristy of Oxford in the UK to present my research on WhatsApp encryption. I won an award for my research, which was recognised by The Times of India (TOI) in their newspaper dated September 19, 2019. The TOI is one of the biggest daily newspaper and digital news media in India. Link to the news article on the web - https://timesofindia.indiatimes.com/city/bengaluru/city-sisters-bag-award-for-best-paper-at-oxford/articleshow/71131164.cms
+- In 2019, I was invited to the Univeristy of Oxford in the UK to present my research on WhatsApp encryption. I won an award for my research, which was recognised by The Times of India (TOI) in their newspaper dated September 19, 2019. The TOI is one of the biggest daily newspaper and digital news media in India. Link to the news article on the web - https://timesofindia.indiatimes.com/city/bengaluru/city-sisters-bag-award-for-best-paper-at-oxford/articleshow/71131164.cms
 - I am the Founder of a Top 15 women-led startup in India. It is a product-based startup; the product is a novel water softening system based on electromagnetism.
 - In 2018, I was invited to Dubai to present my research on securing IoT devices using a novel algorithm based on Elliptical Curve Cryptography (ECC).
 
