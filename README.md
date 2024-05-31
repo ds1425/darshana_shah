@@ -1,5 +1,14 @@
 # Darshana Shah
 
+### Introduction
+I am a Data professional with a passion for enabling executive and senior management make powerful data-driven decisions. I am working as a Senior Data Analyst with Adobe for almost 3 years now. I am committed to fostering AI and data literacy through my role as a Guest Speaker and Lecturer at Australian universities. 
+
+### Professional Expertise
+- Senior Data Analyst at Adobe
+- Founder of a Top 15 Women-Led Startup
+- Guest Speaker, Lecturer in AI & Data Science
+- AI Subject Matter Expert at TAFE NSW
+
 ### Technical Skills
 - Python
 - R
@@ -8,15 +17,6 @@
 - Tableau
 - SnapLogic
 - AWS Sagemaker
-
-### Key Roles
-- Senior Data Analyst at Adobe
-- Founder of Top 15 Women-Led Startup
-- Guest Speaker, Lecturer in AI & Data Science
-- AI Subject Matter Expert at TAFE NSW
-
-### Introduction
-I am a Data professional with a passion for enabling executive and senior management make powerful data-driven decisions. I am working as a Senior Data Analyst with Adobe for almost 3 years now. I am committed to fostering AI and data literacy through my role as a Guest Speaker and Lecturer at Australian universities. 
 
 ## Education
 - M.S., AI & Data Science | The University of New South Wales (_May 2021_)
