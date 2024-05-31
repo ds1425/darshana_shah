@@ -34,16 +34,16 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 ## Work Experience
 
-#### Senior Data Analyst @ Adobe 
+- Senior Data Analyst @ Adobe 
 (_January 2024 - Present_)
 
-#### Data Analyst @ Adobe 
+- Data Analyst @ Adobe 
 (_January 2022 - December 2023_)
 
-#### Salesforce Analytics Consultant @ FullCRM 
+- Salesforce Analytics Consultant @ FullCRM 
 (_May 2021 - January 2022_)
 
-#### R&D Engineer @ Sony 
+- R&D Engineer @ Sony 
 (_July 2019 - February 2020_)
 
 
