@@ -19,7 +19,7 @@ I am a Data professional with a passion for enabling executive and senior manage
 - AWS Sagemaker
 
 ## Education
-- Master of AI & Data Science | The University of New South Wales (_May 2021_)
+- Master of IT in AI & Data Science | The University of New South Wales (_May 2021_)
 - Bachelor of Engineering | R V College of Engineering (_July 2019_)
 
 ## Work Experience
