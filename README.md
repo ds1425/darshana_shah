@@ -35,25 +35,18 @@ I am a Data professional with a passion for enabling executive and senior manage
 - Providing insightful analytics through intelligent, AI-integrated Power BI dashboards
 
 **Data Analyst @ Adobe (_January 2022 - Present_)**
-- Worked as a Data Analyst at Adobe for 2+ years now, enabling the executive management at Adobe to leverage the power of data to drive informed decision-making across the organisation
-- Have been involved in high-impact projects for senior management at Adobe, having successfully completed over 11 such projects in 2023 alone
-- At Adobe, we have different teams for different products, such as Photoshop, Lightroom, etc. I belong to the Adobe Experience Manager or AEM team, which operates under a subscription software business model
-  - I am responsible for all things data in the AEM team, and my role is a dynamic blend of data engineer, data scientist and data analyst
-  - Our team uses various platforms to store customer data, such as ServiceNow and Splunk
-On the data engineering side of my role, 
-•	Collated this data from the above-mentioned platforms by extracting the data using tools like SnapLogic, Airflow and Power Automate (Flows) 
-•	Designed a robust data architecture to store this data in a SQL database that can be accessed via Azure Data Studio 
-On the data analysis side of my role, 
-•	Queried the stored data into analytics platforms such as Power BI Desktop to track and interpret various performance metrics 
-•	Built insightful visuals for the senior leaders to make data-informed decisions
-•	Actively collaborated with internal and external stakeholders based in the US and Europe to deliver actionable insights and customised recommendations to optimise business revenue, customer satisfaction and employee work-life balance
-•	Developed a suite of advanced Power BI dashboards for senior business leaders, aimed at meticulously tracking customer engagement and incidents
-  - Through weekly reporting, our Customer Success Engineers (CSEs) were able to give customers detailed weekly updates on how they're using our product, helping us create better strategies for the customers
-      - This ensures they get the most out of the product, offering the best value for their investment 
-      - Analyzed customer-raised incident tickets, tracking duration, resolution time, and categorizing incidents by severity and urgency
-      - Decreased the number of overdue incidents through targeted process improvements, such as sending out weekly Power BI reports to Managers and Engineers highlighting overdue incident tickets
-•	Strategically leveraged programming languages, advanced tools, and their AI features to build machine learning models for predicting critical key metrics for my team. For example, I used Python, AWS Sagemaker, and its Autopilot feature to successfully build a machine learning model to predict customer churn rate with an accuracy rate of 87%
-•	Worked cross-functionally with different teams and members on transformative projects. For example, I worked on a pivotal project with another team within Adobe where my expertise in programming and Docker was required. I collaborated with Expert Customer Success Engineers, Cloud Subject Matter Experts, and Engineering Program Managers to understand the business problem, objective for designing and implementing the solution
-•	Created clear and impactful presentations for top management, simplifying complex data to align project results with key business KPIs
-•	Led and successfully delivered several strategically significant projects simultaneously within tight deadlines
+- Worked as a Data Analyst enabling the executive management at Adobe to leverage the power of data to drive informed decision-making across the organisation
+- Involved in high-impact projects for senior management at Adobe, having successfully completed over 11 such projects in 2023 alone
+- At Adobe, we have different teams for different products, such as Photoshop, Lightroom, etc. I belong to the Adobe Experience Manager or AEM team, which operates under a subscription software business model and I am responsible for all things data in the AEM team. My role is a dynamic blend of Data Engineer, Data Scientist and Data Analyst
+- On the data engineering side of my role, I collated data from various platforms by extracting the data using tools like SnapLogic, Airflow and Power Automate (Flows). I also designed a robust data architecture to store this data in a SQL database that can be accessed via Azure Data Studio 
+- On the data analysis side of my role, I queried the stored data into analytics platforms such as Power BI Desktop to track and interpret various performance metrics, and built insightful visuals for the senior leaders to make data-informed decisions
+- Actively collaborated with internal and external stakeholders based in the US and Europe to deliver actionable insights and customised recommendations to optimise business revenue, customer satisfaction and employee work-life balance
+- Developed a suite of advanced Power BI dashboards for senior business leaders, aimed at meticulously tracking customer engagement and incidents
+- Through weekly reporting, our Customer Success Engineers (CSEs) were able to give customers detailed weekly updates on how they're using our product, helping us create better strategies for the customers. This ensures they get the most out of the product, offering the best value for their investment 
+- Analyzed customer-raised incident tickets, tracking duration, resolution time, and categorizing incidents by severity and urgency
+- Decreased the number of overdue incidents through targeted process improvements, such as sending out weekly Power BI reports to Managers and Engineers highlighting overdue incident tickets
+- Strategically leveraged programming languages, advanced tools, and their AI features to build machine learning models for predicting critical key metrics for my team. For example, I used Python, AWS Sagemaker, and its Autopilot feature to successfully build a machine learning model to predict customer churn rate with an accuracy rate of 87%
+- Worked cross-functionally with different teams and members on transformative projects. For example, I worked on a pivotal project with another team within Adobe where my expertise in programming and Docker was required. I collaborated with Expert Customer Success Engineers, Cloud Subject Matter Experts, and Engineering Program Managers to understand the business problem, objective for designing and implementing the solution
+- Created clear and impactful presentations for top management, simplifying complex data to align project results with key business KPIs
+- Led and successfully delivered several strategically significant projects simultaneously within tight deadlines
 
