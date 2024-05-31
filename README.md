@@ -53,8 +53,11 @@ I am a Data professional with a passion for enabling executive and senior manage
 - Created clear and impactful presentations for top management, simplifying complex data to align project results with key business KPIs
 - Led and successfully delivered several strategically significant projects simultaneously within tight deadlines
 
+  
+
 
 ![image](https://github.com/ds1425/darshana_shah/assets/151712711/d5e4b08a-23cc-42a2-9c7f-74fa50ebe5a2)
+
 
 **Salesforce Analytics Consultant @ FullCRM (_May 2021 - January 2022_)**
 •	As a certified Salesforce Analytics Consultant, I helped clients overcome business challenges with well thought out solutions
@@ -63,7 +66,10 @@ I am a Data professional with a passion for enabling executive and senior manage
 •	My certifications include Salesforce Certified Administrator and Tableau CRM & Einstein Discovery Consultant
 
 
+
+
 ![image](https://github.com/ds1425/darshana_shah/assets/151712711/6ce86a83-79e5-4773-b056-de78fab09825)
+
 
 **R&D Engineer @ Sony (_July 2019 - February 2020_)**
 •	Team member of the Intellectual Property Division which is part of SARD (Software Architecture Division), one of the two core divisions of Sony in India. Intellectual Property Division deals with patenting new inventions/products developed in Sony
