@@ -24,6 +24,8 @@ I am a Data professional with a passion for enabling executive and senior manage
 
 ## Work Experience
 
+![image](https://github.com/ds1425/darshana_shah/assets/151712711/49066e2a-b9ae-4398-a938-1e28dac373e9)
+
 **Senior Data Analyst @ Adobe (_January 2022 - Present_)**
 - Promoted to a Senior Data Analyst role at Adobe
 - My role has expanded to integrate Product Management and Leadership skills into my responsibilities
@@ -33,6 +35,8 @@ I am a Data professional with a passion for enabling executive and senior manage
 -   Facilitating data accessibility across various teams, empowering team members to leverage this data for creating custom dashboards that meet their specific requirements
 - Working on data lifecycle management systems, including optimising the flow of data from collection and storage to analysis and reporting
 - Providing insightful analytics through intelligent, AI-integrated Power BI dashboards
+
+![image](https://github.com/ds1425/darshana_shah/assets/151712711/1c12bf20-fded-4ace-871e-94d52f68f691)
 
 **Data Analyst @ Adobe (_January 2022 - Present_)**
 - Worked as a Data Analyst enabling the executive management at Adobe to leverage the power of data to drive informed decision-making across the organisation
