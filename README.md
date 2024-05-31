@@ -1,6 +1,8 @@
 # Darshana Shah
 
-I am a Data professional with a passion for enabling executive and senior management make powerful data-driven decisions. I am working as a Senior Data Analyst with Adobe for almost 3 years now. I am committed to fostering AI and data literacy through my role as a Guest Speaker and Lecturer at Australian universities. 
+I am a Data professional committed to enabling executive and senior management to make powerful data-driven decisions. I am working as a Senior Data Analyst with Adobe for almost 3 years now. 
+
+I am passionate about fostering AI and data literacy, which I showcase through my role as a Guest Speaker and Lecturer at Australian universities (Macquarie University, Torrens University, TAFE NSW), and international business schools (Kaplan Business School). 
 
 ## Professional Expertise
 - Senior Data Analyst at Adobe
